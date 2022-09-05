@@ -1,0 +1,7 @@
+/.idea
+/comments/__pycache__
+/comments/comments_config.json
+/comments/tmp
+/venv/
+/todo.txt
+/config.json

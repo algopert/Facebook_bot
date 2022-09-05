@@ -1,0 +1,21 @@
+{
+  "profile_dir": "/path/to/chrome_profiles",
+  "profile_name": "chrome profiles name",
+  "self_post_text": "a simple text to write on the user wall",
+  "self_post_type": "type of publication, text, image, video",
+  "self_post_media_path": "/path/to/vide/file/to/upload/on/user/wall",
+  "fbpage_url": "url to the facebook page to share a publication from",
+  "actor_list": [
+    "list of actors expected on the post page"
+  ],
+  "post_url": "post_url to test the comments and reactions and moderation",
+  "post_comment_text": "text to use as comment on the post",
+  "post_title": "expected title of the post",
+  "post_content": "expected content of the post",
+  "users_valid": [
+    "list of valid usernames to unhidden the comments from"
+  ],
+  "users_invalid": [
+    "list of invalid usernames to hide comments from"
+  ]
+}

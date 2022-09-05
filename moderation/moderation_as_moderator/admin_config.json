@@ -1,0 +1,26 @@
+{
+  "local_server": {
+    "windows_user": "Administrator",
+    "local_ip": "104.168.148.186"
+  },
+  "api_server": {
+    "auth_user": "admin",
+    "auth_pass": "matrix007",
+    "protocol": "http",
+    "api_server": "phpcomments.botobot.xyz",
+    "api_port": "80",
+    "language": "English"
+  },
+  "mail_server": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": "587",
+    "smtp_protocol": "tls",
+    "smtp_user": "nodes.alert@gmail.com",
+    "smtp_password": "JLopez12KM",
+    "mail_from": "nodes.alert@gmail.com",
+    "mail_to": [
+      "zeflex@gmx.com",
+      "zeflex01@gmail.com"
+    ]
+  }
+}

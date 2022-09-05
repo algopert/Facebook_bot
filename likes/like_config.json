@@ -1,0 +1,24 @@
+{
+  "local_server": {
+    "windows_user": "Administrator2",
+    "local_ip": "104.168.141.66_2"
+  },
+  "api_server": {
+    "protocol": "http",
+    "api_server": "likes.botobot.xyz",
+    "api_port": "80",
+    "api_key": "1C1A58E7EC239436CB3ED49F75C5DBE5C98487F5"
+  },
+  "mail_server": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": "587",
+    "smtp_protocol": "tls",
+    "smtp_user": "user_xxx@gmail.com",
+    "smtp_password": "internet@600",
+    "mail_from": "user_xxx@gmail.com",
+    "mail_to": [
+      "user_xxx@hotmail.com",
+      "user_xxx@gmail.com"
+    ]
+  }
+}
